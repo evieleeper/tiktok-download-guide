@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TikTok Download Fix</title>
+</head>
+<body>
+    <h1>TikTok Download Problem</h1>
+    <p>If your TikTok videos are not downloading, try this tool:</p>
+    <a href="https://snaptikk.io/">TikTok Video Downloader</a>
+</body>
+</html>
